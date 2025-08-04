@@ -1,0 +1,145 @@
+[
+  {
+    "Course ID":"CS101",
+    "Course Name":"Introduction to Computer Science",
+    "Category":"Computer Science",
+    "Level":"Beginner",
+    "Duration (hours)":20,
+    "Provider":"Coursera",
+    "Tags":"fundamentals,logic,programming",
+    "Reference Book":"Computer Science: An Overview by J. Glenn Brookshear",
+    "Course Link":"https:\/\/www.coursera.org\/learn\/cs101"
+  },
+  {
+    "Course ID":"DS201",
+    "Course Name":"Data Science with Python",
+    "Category":"Data Science",
+    "Level":"Intermediate",
+    "Duration (hours)":40,
+    "Provider":"edX",
+    "Tags":"python,pandas,ml",
+    "Reference Book":"Python for Data Analysis by Wes McKinney",
+    "Course Link":"https:\/\/www.edx.org\/course\/data-science-python"
+  },
+  {
+    "Course ID":"ML301",
+    "Course Name":"Machine Learning Advanced",
+    "Category":"AI & ML",
+    "Level":"Advanced",
+    "Duration (hours)":50,
+    "Provider":"Udemy",
+    "Tags":"supervised,unsupervised,deep learning",
+    "Reference Book":"Pattern Recognition and Machine Learning by Christopher Bishop",
+    "Course Link":"https:\/\/www.udemy.com\/course\/machinelearning\/"
+  },
+  {
+    "Course ID":"FS101",
+    "Course Name":"Full Stack Web Development",
+    "Category":"Web Development",
+    "Level":"Intermediate",
+    "Duration (hours)":60,
+    "Provider":"freeCodeCamp",
+    "Tags":"frontend,backend,html,css,javascript,nodejs,react",
+    "Reference Book":"Full Stack Development with MERN by Shama Hoque",
+    "Course Link":"https:\/\/www.freecodecamp.org\/learn"
+  },
+  {
+    "Course ID":"CY201",
+    "Course Name":"Cybersecurity Essentials",
+    "Category":"Cyber Security",
+    "Level":"Beginner",
+    "Duration (hours)":35,
+    "Provider":"Cisco Networking Academy",
+    "Tags":"network,security,firewall,encryption,cybersecurity",
+    "Reference Book":"Cybersecurity Essentials by Charles Brooks",
+    "Course Link":"https:\/\/www.netacad.com\/courses\/cybersecurity\/essentials"
+  },
+  {
+    "Course ID":"CC301",
+    "Course Name":"Cloud Computing Fundamentals",
+    "Category":"Cloud Computing",
+    "Level":"Beginner",
+    "Duration (hours)":30,
+    "Provider":"IBM Cloud",
+    "Tags":"cloud,virtualization,aws,azure,gcp",
+    "Reference Book":"Cloud Computing: Concepts, Technology & Architecture by Thomas Erl",
+    "Course Link":"https:\/\/cognitiveclass.ai\/courses\/cloud-computing"
+  },
+  {
+    "Course ID":"CS401",
+    "Course Name":"Computer Science Foundations (PDF Companion)",
+    "Category":"Computer Science",
+    "Level":"All Levels",
+    "Duration (hours)":45,
+    "Provider":"roadmap.sh",
+    "Tags":"cs fundamentals,data structures,algorithms,system design",
+    "Reference Book":"Companion PDF: Computer Science Roadmap",
+    "Course Link":"https:\/\/roadmap.sh\/computer-science"
+  },
+  {
+    "Course ID":"DS401",
+    "Course Name":"Distributed Systems Concepts",
+    "Category":"Distributed Systems",
+    "Level":"Advanced",
+    "Duration (hours)":50,
+    "Provider":"MIT OpenCourseWare",
+    "Tags":"distributed systems,consensus,replication,scalability",
+    "Reference Book":"Designing Data-Intensive Applications by Martin Kleppmann",
+    "Course Link":"https:\/\/ocw.mit.edu\/courses\/6-824-distributed-computer-systems-spring-2006\/"
+  },
+  {
+    "Course ID":"DS301",
+    "Course Name":"Applied Data Science",
+    "Category":"Data Science",
+    "Level":"Intermediate",
+    "Duration (hours)":45,
+    "Provider":"IBM",
+    "Tags":"data science,python,pandas,ml,data analysis",
+    "Reference Book":"Practical Statistics for Data Scientists by Peter Bruce",
+    "Course Link":"https:\/\/cognitiveclass.ai\/courses\/data-science-hands-open-source-tools-2"
+  },
+  {
+    "Course ID":"PL101",
+    "Course Name":"C Programming Basics",
+    "Category":"Programming",
+    "Level":"Beginner",
+    "Duration (hours)":25,
+    "Provider":"Udemy",
+    "Tags":"c language,procedural,low-level",
+    "Reference Book":"The C Programming Language by Kernighan & Ritchie",
+    "Course Link":"https:\/\/www.udemy.com\/course\/c-programming-for-beginners\/"
+  },
+  {
+    "Course ID":"PL102",
+    "Course Name":"Learn C++ from Scratch",
+    "Category":"Programming",
+    "Level":"Beginner",
+    "Duration (hours)":30,
+    "Provider":"Coursera",
+    "Tags":"c++,oop,classes,inheritance",
+    "Reference Book":"Programming: Principles and Practice Using C++ by Bjarne Stroustrup",
+    "Course Link":"https:\/\/www.coursera.org\/learn\/c-plus-plus"
+  },
+  {
+    "Course ID":"PL103",
+    "Course Name":"Python Programming Masterclass",
+    "Category":"Programming",
+    "Level":"Beginner",
+    "Duration (hours)":35,
+    "Provider":"Udemy",
+    "Tags":"python,functions,loops,data structures",
+    "Reference Book":"Automate the Boring Stuff with Python by Al Sweigart",
+    "Course Link":"https:\/\/www.udemy.com\/course\/python-the-complete-python-developer-course\/"
+  },
+  {
+    "Course ID":"PL104",
+    "Course Name":"Java Programming for Beginners",
+    "Category":"Programming",
+    "Level":"Beginner",
+    "Duration (hours)":40,
+    "Provider":"edX",
+    "Tags":"java,oop,syntax,collections,exceptions",
+    "Reference Book":"Effective Java by Joshua Bloch",
+    "Course Link":"https:\/\/www.edx.org\/learn\/java"
+  }
+]
