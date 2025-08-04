@@ -32,7 +32,3 @@ An interactive AI-driven roadmap system that guides learners through personalize
 - [HTML/CSS/JS](https://developer.mozilla.org/en-US/) — Frontend (optional)
 - [Jupyter Notebooks](https://jupyter.org/) — Experimentation and notebooks
 
-
-
-## 📁 Project Structure
-
